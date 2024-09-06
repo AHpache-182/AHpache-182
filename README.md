@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AHpache-182
-- 👀 I’m interested in security of all sorts, specifically authenticating and authorizing users.
+- 👋 Hi, I’m Anson, an aspiring engineer and undergraduate student
+- 👀 I’m interested in cybersecurity.
 - 🌱 I’m currently learning how to integrate SSO into a mainframe.
 - 📫 How to reach me: ahuang94182@gmail.com
 - 😄 Pronouns: He/Him
